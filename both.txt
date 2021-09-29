@@ -2,6 +2,8 @@ this is a shared work product
 
 both bob and robert will update
 
+rh - did this
+
 and will commit changes
 
 at different times.
