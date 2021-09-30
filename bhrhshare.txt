@@ -2,6 +2,8 @@ bh edits
 
 this is a shared file, bh and rh will BOTH edit
 
+rh did THIS *****
+
 some more stuff
 
 yet more text
